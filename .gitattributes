@@ -1,0 +1,2 @@
+elasticsearch-8.3.2-windows-x86_64.zip filter=lfs diff=lfs merge=lfs -text
+kibana-8.3.2-windows-x86_64.zip filter=lfs diff=lfs merge=lfs -text
