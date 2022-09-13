@@ -4,3 +4,6 @@ kibana-8.3.2-windows-x86_64.zip filter=lfs diff=lfs merge=lfs -text
 elasticsearch-7.4.2-windows-x86_64.zip filter=lfs diff=lfs merge=lfs -text
 kibana-7.4.2-windows-x86_64.zip filter=lfs diff=lfs merge=lfs -text
 actSpringBoot.zip filter=lfs diff=lfs merge=lfs -text
+01-课件 filter=lfs diff=lfs merge=lfs -text
+02-配套资料.zip filter=lfs diff=lfs merge=lfs -text
+03-课堂源码.zip filter=lfs diff=lfs merge=lfs -text
